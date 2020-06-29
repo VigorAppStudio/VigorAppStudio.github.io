@@ -95,4 +95,4 @@ We do not knowingly collect personally identifiable information from anyone unde
 ## Contact us
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: <a href="mailto:groageselina@gmail.com"><span class="s6">groageselina@gmail.com</span></a></span></p>
+By email: <a href="mailto:groageselina@gmail.com"><span class="s6">groageselina@gmail.com</span></a>
